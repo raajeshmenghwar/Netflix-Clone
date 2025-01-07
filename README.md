@@ -10,8 +10,11 @@ This is a **Netflix Clone** built using pure **HTML** and **CSS**. The project r
 ## Purpose
 This project was created as part of my web development practice to enhance my skills in HTML and CSS.
 
-## How to View
-You can view this project by cloning the repository and opening the `index.html` file in your browser.
+## Live Preview
+You can preview the website here: [Netflix Clone](https://raajeshmenghwar.github.io/Netflix-Clone/)
+
+## How to View Locally
+Clone the repository and open the `index.html` file in your browser.
 
 ## Author
 **Rajesh Kumar**
